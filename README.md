@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 ECE-479-590
 =====================
+https://www.youtube.com/watch?v=j8kCEqqXNEk
 
 run:
 ./setup.sh
